@@ -1,2 +1,4 @@
-Ejercicios de genericos
-Almacenar genericos
+# Colección de Ejercicios de Java
+
+---
+*Diego Puértolas Ruiz*
